@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323334999990",
+    "project_id": "harivaratest",
+    "storage_bucket": "harivaratest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323334999990:android:483b880382718258063b17",
+        "android_client_info": {
+          "package_name": "com.makan.harivara.harivara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323334999990-61srvvdq5ucu4pmb0lgltqaq6u48e2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXygwuoJUbkXyRKdVlCMc6TMtGEjEuZpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323334999990-61srvvdq5ucu4pmb0lgltqaq6u48e2nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
