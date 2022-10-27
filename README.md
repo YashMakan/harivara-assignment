@@ -1,16 +1,19 @@
-# harivara
+#Harivara Technical Assignment
 
-A new Flutter project.
+Develop a flutter application which will change the angle of the blue box as shown in the UI [below](#Output Result) based on the character length from left and right textfields.
 
-## Getting Started
+#Output Result
+![Output Result](screenshots/test.jpeg)
 
-This project is a starting point for a Flutter application.
+#Result
+Result 1                   |  Result 2
+:-------------------------:|:-------------------------:
+![result 1](screenshots/result-0.jpeg)  |  ![result 2](screenshots/result-1.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Personal Details
+Fields                     |  -
+:-------------------------:|:-------------------------:
+Name                       |  Yash Makan
+Email                      |  [yashmakan.work@gmail.com](mailto:yashmakan.work@gmail.com)
+Website                    |  [yashmakan.co.in](https://yashmakan.co.in/)
+Linkedin                   |  [@yashmakan](https://www.linkedin.com/in/yashmakan/)
