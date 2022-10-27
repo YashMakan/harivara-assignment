@@ -1,6 +1,6 @@
 # Harivara Technical Assignment
 
-Develop a flutter application which will change the angle of the blue box as shown in the UI [below](#Output Result) based on the character length from left and right textfields.
+Develop a flutter application which will change the angle of the blue box as shown in the UI [below](#output-result) based on the character length from left and right textfields.
 
 # Output Result
 ![Output Result](screenshots/test.jpeg)
